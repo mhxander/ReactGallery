@@ -1,3 +1,21 @@
+This is my React Gallery app for project 7 of the TeamTreehouse Full-Stack Javascript techdegree.  I've included all files necessary to run the app, except the config.js file that is discussed below.  I've made a couple small changes to the CSS.  I added a background color to the whole page, and added a border to the search box and button.  I also changed the text color and size fro the headline element which shows the topic of the images.
+
+
+
+In order to run this app, you will need to request an API key from Flickr's API.  Go to the following link( https://www.flickr.com/services/apps/create/apply/ ), create an account, and request a non-commercial API.  You will then need to go into the "src" folder, and create a file called "config.js".  Include the following code:
+
+const apiKey = 'YOUR API KEY HERE';
+export default apiKey;
+
+Once that is added, you'll need to make sure you have "npm" installed.  Then, go to the terminal, make sure you're in the project folder, and type "npm install" to install the dependencies, and then "npm start" to run the app.  The page should open in your browser, but if not, go to your browser, and go to "http://localhost:3000/". The page should run from there.
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

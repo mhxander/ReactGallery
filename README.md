@@ -1,4 +1,4 @@
-This is my React Gallery app for project 7 of the TeamTreehouse Full-Stack Javascript techdegree.  I've included all files necessary to run the app, except the config.js file that is discussed below.  I've made a couple small changes to the CSS.  I added a background color to the whole page, and added a border to the search box and button.  I also changed the text color and size fro the headline element which shows the topic of the images.
+This is my React Gallery app for project 7 of the TeamTreehouse Full-Stack Javascript techdegree.  I've included all files necessary to run the app, except the config.js file that is discussed below.  I've made a couple small changes to the CSS.  I added a background color to the whole page, and added a border to the search box and button.  I also changed the text color and size for the headline element which shows the topic of the images.
 
 
 
